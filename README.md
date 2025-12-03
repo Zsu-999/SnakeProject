@@ -2,6 +2,7 @@
 Shaun Hills and Zachary Geisler group project 
 
 Gameplay Overview
+
 This is a classic Snake game implemented in C using the ncurses library for terminal graphics.
 How It Works
 
